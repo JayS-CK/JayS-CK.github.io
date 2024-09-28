@@ -46,14 +46,11 @@ I have an entry-level Cloud Engineer position and am working to increase my know
     ![Wake Tech Mascot](https://www.waketech.edu/sites/default/files/styles/785x441/public/paragraphs/news/lead-images/Athletics%20New%20Image.png?itok=9JzZ5ECN)
 
 * [Humble Bundle - Great place for cheap tech reference books](https://www.humblebundle.com/books) 
-    *Humble Bundle regularly offers packages of technical reference books at a highly discounted rate, with some of the proceeds going  
-    to assist charitable organizations. The books are generally a version behind the current version, but still a great source of reference   
-    and learning material
+    *Humble Bundle regularly offers packages of technical reference books at a highly discounted rate, with some of the proceeds going to assist charitable organizations. The books are generally a version behind the current version, but still a great source of reference and learning material.
 
     ![Humble Bundle Logo](https://cdn.humblebundle.com/static/hashed/4814f84495cd679571cb94896978da3825562075.svg)
 
 * [Powershell Cheat Sheet - Lazy Admin](https://lazyadmin.nl/powershell/powershell-cheat-sheet/) 
-    * Great cheat sheet and reference location for those learning or currently working with Powershell. I usually use this site as  
-    a reference point for building the script, then let ChatGPT review for any syntax errors.
+    * Great cheat sheet and reference location for those learning or currently working with Powershell. I usually use this site as a reference point for building the script, then let ChatGPT review for any syntax errors.
 
     ![Lazy Admin](https://lazyadmin.nl/wp-content/uploads/2024/03/lazyadmin-2024-white-251-25.svg)
