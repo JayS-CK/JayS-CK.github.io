@@ -43,4 +43,5 @@ I have an entry-level Cloud Engineer position and am working to increase my know
 ## Websites I Recommend
 
 * [Wake Tech University](https://www.waketech.edu) 
-* []
+    * ![Wake Tech Mascot](https://images.app.goo.gl/ATjKunBoreU5BVzYAA)
+    
