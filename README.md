@@ -27,11 +27,11 @@ I have an entry-level Cloud Engineer position and am working to increase my know
  #### Hobbies:
  * Sports
   * Favorite Teams
-   1. **Carolina Panthers**
-   2. **NC State**
-   3. **San Antonio Spurs**
-   4. **NC Courage**
-   5. **NCFC**
+    1. **Carolina Panthers**
+    2. **NC State**
+    3. **San Antonio Spurs**
+    4. **NC Courage**
+    5. **NCFC**
 
 ## Websites I Recommend
 
