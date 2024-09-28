@@ -25,6 +25,7 @@ I have an entry-level Cloud Engineer position and am working to increase my know
  * Platform troubleshooting and monitoring
 
  #### Hobbies:
+
  * Sports
   * Favorite Teams
     1. **Carolina Panthers**
@@ -32,13 +33,14 @@ I have an entry-level Cloud Engineer position and am working to increase my know
     3. **San Antonio Spurs**
     4. **NC Courage**
     5. **NCFC**
+
 * Fandoms
- * *Star Wars*
- * *Marvel Cinematic Universe*
- * *The Office*
+    * *Star Wars*
+    * *Marvel Cinematic Universe*
+    * *The Office*
  * 
 
 ## Websites I Recommend
 
-* [Wake Tech University](www.waketech.edu) 
+* [Wake Tech University](https://www.waketech.edu) 
 
