@@ -38,7 +38,6 @@ I have an entry-level Cloud Engineer position and am working to increase my know
     * *Star Wars*
     * *Marvel Cinematic Universe*
     * *The Office*
- * 
 
 ## Websites I Recommend
 
