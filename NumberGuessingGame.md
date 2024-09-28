@@ -12,4 +12,6 @@ G --> |$Value < $input| I[Present 'Guess too high' feedback to user]
 G --> |$Value = $input| J[Present **'You Got It!'** feedback to user]
 H --> E
 I --> E
+F --> |Fail| J[Present 'Invalid Input' feedback to user]
+J --> E
 ```
